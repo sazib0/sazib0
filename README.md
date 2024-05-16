@@ -1,7 +1,7 @@
 <img width="100%" alt="sazib" src="https://github.com/sazibc5/image_for_repo/blob/2eeafedcf12214fd0308690546e3bf768612d9db/Orange.png">
 
 <h1 align="center">Hi 👋, I'm Sazib [ corotCrack ]</h1>
-<h3 align="center">A passionate Data Analysis from Bangladesh.</h3>
+<h3 disabled align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=An+enthusiastic+data+analyst.;An+enthusiastic+data+scientist." alt="Typing SVG" /> </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sazib0&label=Profile%20views&color=0e75b6&style=flat" alt="sazib0" /> </p>
 
