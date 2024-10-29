@@ -4,7 +4,7 @@
 <img align="center" height="150px" alt="sazib" src="https://media.giphy.com/media/NKLdcqhwo2f8A/giphy.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Sazib <img src="https://komarev.com/ghpvc/?username=sazib0&label=Profile%20views&color=0e75b6&style=flat" alt="sazib0" /></h1>
-<p align="center">-🏢 💼 💻- Professional in <b>ICT industry.<b> </p>
+<p align="center">-🏢 💼 💻- Professional in the <b>ICT industry.<b> </p>
 
 <div align="center">
 <a href="https://codepen.io/saz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saz" height="30" width="40" /></a>
