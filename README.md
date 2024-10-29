@@ -13,11 +13,11 @@
 <a href="https://www.hackerrank.com/db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="db" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sazib0&show_icons=true&locale=en" alt="sazib0" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sazib0&" alt="sazib0" />
+<div align="justify">
+  <img src="https://github-readme-stats.vercel.app/api?username=sazib0&show_icons=true&locale=en" alt="sazib0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazib0&" alt="sazib0" />
 </div>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazib0&show_icons=true&locale=en&layout=compact" alt="sazib0" /></div>
 <div align="center" >
@@ -27,3 +27,7 @@
 ###
 
 <h3 align="left">Languages and Tools:</h3>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
