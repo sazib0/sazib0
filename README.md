@@ -30,4 +30,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sazib0/sazib0/output/snake.svg" alt="Snake animation" />
