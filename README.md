@@ -13,21 +13,27 @@
 <a href="https://www.hackerrank.com/db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="db" height="30" width="40" /></a>
 </p>
 
-<div align="justify">
+<div align="justify center">
   <img src="https://github-readme-stats.vercel.app/api?username=sazib0&show_icons=true&locale=en" alt="sazib0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazib0&show_icons=true&locale=en&layout=compact" alt="sazib0" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazib0&" alt="sazib0" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazib0&show_icons=true&locale=en&layout=compact" alt="sazib0" /></div>
+</div>
 <div align="center" >
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazib0" alt="sazib0" /></a>
 </div>
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
 
-<br clear="both">
+![sazib0](https://github-readme-stats.vercel.app/api?username=sazib0&show_icons=true&locale=en)
 
-<img src="https://raw.githubusercontent.com/sazib0/sazib0/output/snake.svg" alt="Snake animation" />
+![sazib0](https://github-readme-streak-stats.herokuapp.com/?user=sazib0&)
+
+![sazib0](https://github-readme-stats.vercel.app/api/top-langs?username=sazib0&show_icons=true&locale=en&layout=compact)
+
+![sazib0](https://github-profile-trophy.vercel.app/?username=sazib0)
+
+Languages and Tools:
