@@ -9,9 +9,9 @@
 <div align="center">
 <a href="https://codepen.io/saz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/saz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saz" height="30" width="40" /></a>
-<a href="https://kaggle.com/saz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saz" height="30" width="40" /></a>
+<a href="https://kaggle.com/sazibch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saz" height="30" width="40" /></a>
 <a href="https://medium.com/@cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cncc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cncc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@3urity564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cncc" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="db" height="30" width="40" /></a>
 </div>
 
